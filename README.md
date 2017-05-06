@@ -1,2 +1,2 @@
 # maze_animated_text
-This is a maze generator that takes text and creates a maze with letter shape.
+This is a maze generator. It takes a picture with text and creates a maze with letter shape.
