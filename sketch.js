@@ -9,11 +9,11 @@ var w = 10;
 var grid = [];
 
 function preload() {
-  img = loadImage("assets/2017.png");
+  img = loadImage("assets/train.png");
 }
 
 function setup() {
-  var myCanvas = createCanvas(900, 400);
+  var myCanvas = createCanvas(1000, 400);
   myCanvas.parent("canvasContainer");
   pixelDensity(1);
   background(img);
